@@ -1,0 +1,18 @@
+#boton-1 {
+    background-color: yellow;
+    width: 10vw;
+    height: 60px;
+    padding: 9px;
+    border-radius: 6px;
+}
+
+#boton-2 {
+    background-color: darkgreen;
+    width: 10vw;
+    height: 60px;
+    padding: 9px;
+    border-radius: 6px;
+}
+.hidden{
+    display: none;
+}
